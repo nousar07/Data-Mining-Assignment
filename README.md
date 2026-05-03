@@ -74,6 +74,3 @@ Technologies Used
 - Pandas
 - Matplotlib
 - Seaborn
-
-1. Open Jupyter Notebook or VS Code
-2. Install required libraries:
